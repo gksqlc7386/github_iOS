@@ -16,6 +16,7 @@
 		FB53B8DA2B96CFC1009E298E /* PracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB53B8D92B96CFC1009E298E /* PracticeUITests.swift */; };
 		FB53B8E42B96CFC1009E298E /* PracticeUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB53B8E32B96CFC1009E298E /* PracticeUIUITests.swift */; };
 		FB53B8E62B96CFC1009E298E /* PracticeUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB53B8E52B96CFC1009E298E /* PracticeUIUITestsLaunchTests.swift */; };
+		FB53B8F32B96D3D7009E298E /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB53B8F22B96D3D6009E298E /* MyTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FB53B8DF2B96CFC1009E298E /* PracticeUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PracticeUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB53B8E32B96CFC1009E298E /* PracticeUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeUIUITests.swift; sourceTree = "<group>"; };
 		FB53B8E52B96CFC1009E298E /* PracticeUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FB53B8F22B96D3D6009E298E /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		FB53B8C12B96CFBF009E298E /* PracticeUI */ = {
 			isa = PBXGroup;
 			children = (
+				FB53B8F22B96D3D6009E298E /* MyTableViewController.swift */,
 				FB53B8C22B96CFBF009E298E /* AppDelegate.swift */,
 				FB53B8C42B96CFBF009E298E /* SceneDelegate.swift */,
 				FB53B8C62B96CFBF009E298E /* ViewController.swift */,
@@ -261,6 +264,7 @@
 				FB53B8C72B96CFBF009E298E /* ViewController.swift in Sources */,
 				FB53B8C32B96CFBF009E298E /* AppDelegate.swift in Sources */,
 				FB53B8C52B96CFBF009E298E /* SceneDelegate.swift in Sources */,
+				FB53B8F32B96D3D7009E298E /* MyTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
